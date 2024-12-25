@@ -1,0 +1,184 @@
+h1 {
+    text-align: center;
+    font-family: Lato;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 86.4px;
+    text-decoration-skip-ink: none;
+}
+
+img {
+    width: 568px;
+    height: 446px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#One {
+    width: 568px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto 0;
+    color: black;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    text-decoration-skip-ink: none;
+}
+
+#Two {
+    width: 568px;
+    height: 96px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-skip-ink: none;
+    color: #414651;
+}
+
+#LIone {
+    width: 568px;
+    height: 144px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    color: #155EEF;
+}
+
+button {
+    width: 177px;
+    height: 56px;
+    padding: 12px 32px 12px 32px;
+    gap: 10px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    color: #CEA201;
+    font-size: 18px;
+}
+
+#Three {
+    text-align: center;
+    width: 722px;
+    height: 48px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    text-decoration-skip-ink: none;
+    color: black;
+}
+
+#Four {
+    width: 722px;
+    height: 72px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-skip-ink: none;
+    color: #414651;
+}
+
+#Five {
+    text-align: center;
+    width: 722px;
+    height: 24px;
+    gap: 10px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: green;
+}
+
+#LItwo {
+    text-align: left;
+    width: 600px;
+    height: 72px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: pink;
+    margin-left: 138px;
+}
+
+#butterfly {
+    width: 200px;
+    height: 200px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+#six {
+    width: 690px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 24px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    margin-left: 24px;
+}
+
+div {
+    background-color: pink;
+    border: 2px solid black;
+    padding: 10px;
+    width: 722px;
+}
+
+ul {
+    width: 407px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    text-decoration-skip-ink: none;
+    color: #CEA201;
+}
+
+#fish {
+    width: 298.01px;
+    height: 396px;
+    gap: 0px;
+    opacity: 0px;
+    margin-top: 6px;
+}
+
+#Seven {
+    margin-left: 568px;
+    width: 216px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: auto;
+    color: #00D4BC;
+}
